@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nn/static/css/main.39fdee31.css",
+    "main.js": "/nn/static/js/main.e1e09324.js",
+    "static/media/neuron.png": "/nn/static/media/neuron.56ac4b38e7432da6a11e.png",
+    "static/media/cross.svg": "/nn/static/media/cross.33106f1b8fe0d19f924828f63852b215.svg",
+    "index.html": "/nn/index.html",
+    "static/media/warning.svg": "/nn/static/media/warning.02ccdb46534b9031dbcc3297904a5ea7.svg",
+    "static/media/info.svg": "/nn/static/media/info.619690765a54f1b9ab590595e540a168.svg",
+    "main.39fdee31.css.map": "/nn/static/css/main.39fdee31.css.map",
+    "main.e1e09324.js.map": "/nn/static/js/main.e1e09324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39fdee31.css",
+    "static/js/main.e1e09324.js"
+  ]
+}
