@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dragNN/static/css/main.39fdee31.css",
+    "main.css": "/dragNN/static/css/main.100dadb0.css",
     "main.js": "/dragNN/static/js/main.d3b68fea.js",
     "static/media/neuron.png": "/dragNN/static/media/neuron.56ac4b38e7432da6a11e.png",
     "static/media/cross.svg": "/dragNN/static/media/cross.33106f1b8fe0d19f924828f63852b215.svg",
     "index.html": "/dragNN/index.html",
     "static/media/warning.svg": "/dragNN/static/media/warning.02ccdb46534b9031dbcc3297904a5ea7.svg",
     "static/media/info.svg": "/dragNN/static/media/info.619690765a54f1b9ab590595e540a168.svg",
-    "main.39fdee31.css.map": "/dragNN/static/css/main.39fdee31.css.map",
+    "main.100dadb0.css.map": "/dragNN/static/css/main.100dadb0.css.map",
     "main.d3b68fea.js.map": "/dragNN/static/js/main.d3b68fea.js.map"
   },
   "entrypoints": [
-    "static/css/main.39fdee31.css",
+    "static/css/main.100dadb0.css",
     "static/js/main.d3b68fea.js"
   ]
 }
